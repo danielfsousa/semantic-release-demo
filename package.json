@@ -1,0 +1,11 @@
+{
+  "name": "semantic-release-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:danielfsousa/semantic-release-demo.git",
+  "author": "Daniel Sousa <sousa.dfs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "semantic-release": "^16.0.0-beta.24"
+  }
+}
