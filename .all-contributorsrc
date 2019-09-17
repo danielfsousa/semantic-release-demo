@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "danielfsousa",
+      "name": "Daniel Sousa",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/11372312?v=4",
+      "profile": "https://github.com/danielfsousa",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "semantic-release-demo",
+  "projectOwner": "danielfsousa",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
