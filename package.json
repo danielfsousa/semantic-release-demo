@@ -1,11 +1,24 @@
 {
-  "name": "semantic-release-demo",
+  "name": "semantic-release-demo-daniel",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:danielfsousa/semantic-release-demo.git",
   "author": "Daniel Sousa <sousa.dfs@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo \"test ok\"",
+    "commit": "git-cz"
+  },
   "dependencies": {
+    "commitizen": "^4.0.3",
     "semantic-release": "^16.0.0-beta.24"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
